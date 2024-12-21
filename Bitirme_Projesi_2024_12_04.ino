@@ -24,7 +24,7 @@
 #define THRESHOLD 500   // Eşik değeri, sensör değerlerinin beyaz veya siyah olduğunu belirler
 
 // Başlangıç hızı (PWM değeri)
-int speed = 150;
+int speed = 70;
 
 void setup() {
   // Sensör pinlerini giriş olarak ayarla
